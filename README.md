@@ -15,4 +15,4 @@
 
 ## Demo
 ---
-Click [here]() to see demo !
+Click [here](https://almousaz.github.io/Sliding-Boxes-coding-exercise/) to see demo !
